@@ -1,0 +1,34 @@
+Tax Invoice
+M/s.Bharath Packagings 2017 - 2019 Invoice No. Dated
+C-21, SIDCO Industrial Estate, Hosur 635 126  
+TIN 2 33303360831 Delivery Note
+Tamilnadu State Code : 33
+GSTIN/UINI 33AACFB6293L1ZA Supplier’s Ref. Other Reference(s)
+BS724041 1/0-19.06.18
+Buyer Buyer’s Order No. Dated
+GRINDWELL NORTON LTD.  
+Devanahalli Road’   Madras Road’ Despatch Document NO. Delivery Note Date
+Bangalore - 560 049.  
+Karnataka’ Code : 29 Despatched through Destination
+GSTIN/U|N:29AAACG8725B1ZQ i   
+SI Description of Goods HSN/SAC Quantity Rate per Amount
+N0-. . . . .
+1 387X387X27O - 5PLY PPL BROWN PL0095 48191010 200 Nos 60.23 Nos 12,046.00
+IGST 12 % 1 ,446.00
+Total l l 200 Nos ? 13,492.00
+Amount Chargeable (in words) E. & O.E
+Indian Rupees Thirteen Thousand Four Hundred Ninety Two Only
+HSN/SAC Taxable lnteg_rated Tax
+Value _ Rate _ Amount
+481 91010 12,046.00 . 1 2% . 1,446.00
+Total 1 2,046.00 1 ,446.00
+Tax Amount (in words) : Indian Rupees One Thousand Four Hundred Forty Six Only
+Form to Receive : C FO|‘IT| - Dt:
+Buyer’s VAT TIN : 29210058242
+Company’s PAN I AACFB 6293 L Date & Time of Invoice : 26-Jun-2018 at 1 1 :25
+Declaration for M/s.Bharath Packagings 2017 - 2019
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and _ _
+Authorised Signatory
+This is a Computer Generated Invoice
+

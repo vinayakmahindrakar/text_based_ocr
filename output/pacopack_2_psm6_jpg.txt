@@ -1,0 +1,42 @@
+TAX INVOICE
+pACopACK Invoice No. Dated
+A 1 8/21, 0406/18-19 7 21 -Jun-2018
+Nandjyot Industrial Estate, Delivery Note Mode/Terms of Payment
+Andherl Kurla Road, D
+Mumbai - 400 072. — 30 a s
+GSTIN/UIN: 27AAAFP4953D1 ZD Supplier’s Ref. Other Reference(s)
+State_Name : Maharashtra, Code_ : 27 _
+E—Mall : pacopack.mumbal@gmall.com Buyer,s Order NO. Dated
+Buyer M8721 5975/0 22-Mar-201 8
+Gr'ndwe" Norton Ltd- Despatch Document No. Delivery Note Date
+Mora, Uran _
+D'St Ra'gad P'nCOde 3 400704 Despatched through Destination
+PAN/'T N0 3 AAACG8725B Bill of Lading/LR-RR No. Motor Vehicle No.
+State Name I Maharashtra, Code : 27 _ dt_ 21 _Jun_2018 MH_04_G0_7569_
+Terms of Delivery
+Direct
+SI 'Marks & Nos./ Description of HSN/SAC I Quantity I Rate per Amount
+No, _Container No. Goods ‘ _
+1 7 Ply 410643 350x350x80 4819 50 Boxes 79.09 Boxes 3,954.50
+State Tax SGST 237.27
+Central Tax CGST 237.27
+Less: Rounding Up (_)o_o4
+7 ‘ Total ‘ 750 Boxes ‘ l ? 4,429_oo
+Amount Chargeable (in words) E. & O.E
+Indian Rupees Four Thousand Four Hundred Twenty Nine Only
+HSN/SAC Taxable Central Tax State Tax Total
+value Tax Amount
+481 9 3,954.50 6% 237.27 7 6% 237.27 474.54
+Total 3,954.50 237.27 237.27 474.54
+Tax Amount (in words) : Indian Rupees Four Hundred Seventy Four and Fifty Four paise Only
+Company’s Bank Details
+Bank Name : S.V.C O/D A/C 101320950000640
+, : AAAFP4953D A/C NO. : 101320950000640
+Gompény 8 PAN Branch & IFs Code ; Versova & SVCBOOOOO13
+Declaration f PACOPACK
+We declare that this invoice shows the actual price of or
+the goods described and that all particulars are true
+and correCt- Authorised Signatory
+SUBJECT TO MUMBAI JURISDICTION
+This is a Computer Generated Invoice
+

@@ -1,0 +1,6 @@
+total
+net payable
+gross total
+grand total
+invoice value
+total amount
